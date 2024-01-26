@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\2024study\OOP\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+130601786.index
+888296527.index

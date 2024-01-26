@@ -1,0 +1,5 @@
+package oopstart.without_interface;
+
+public class RealMessageSender {
+
+}

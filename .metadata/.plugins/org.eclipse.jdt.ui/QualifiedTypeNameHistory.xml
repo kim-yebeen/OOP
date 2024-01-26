@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="oopstart.without_interface.RealMessageSender"/>
+    <fullyQualifiedTypeName name="oopstart.without_interface.Client"/>
+    <fullyQualifiedTypeName name="oopstart.without_interface.FakeMessageSender"/>
+    <fullyQualifiedTypeName name="oopstart.with_interface.RealMessageSender"/>
+    <fullyQualifiedTypeName name="oopstart.with_interface.MessageSender"/>
+    <fullyQualifiedTypeName name="oopstart.with_interface.FakeMessageSender"/>
+</qualifiedTypeNameHistroy>
