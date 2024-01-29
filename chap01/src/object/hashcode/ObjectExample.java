@@ -30,9 +30,9 @@ public class ObjectExample {
 	
 	//해시값을 구하는 기준을 레퍼런스 주소를 기준으로 잡는지 아니면 멤버변수에 대입된 값으로 잡는지 
 	//@Override
-	//public int hashCode() {
-	//	return Objects.hash(intField, stringField);
-	//}
+	public int hashCode() {
+		return Objects.hash(intField, stringField);
+	}
 	
 	
 }
